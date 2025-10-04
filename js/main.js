@@ -25,8 +25,8 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     'Esta flor es para ti dani💖',
     'Te quiero mucho señorita😘',
     'Gracias por todo',
-    '¡Eres especial!',
-    '¡Feliz dia ❤️!'
+    '¡Eres especial dani😍!',
+    '¡Feliz noche ❤️!'
   ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -251,3 +251,4 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
